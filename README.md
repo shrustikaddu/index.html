@@ -1,5 +1,5 @@
 # index.html
-This is my first repository
+This is my first html
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><h1>Web Developement Course</h1>
 <h2>Web Developement Course</h2>
 <h3>Web Developement Course</h3>
